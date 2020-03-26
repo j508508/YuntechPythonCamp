@@ -22,5 +22,6 @@ while flag:
     else: #重新輸入
         print('=====請輸入1-4之間====')
         continue
+print("hello")
 
 
